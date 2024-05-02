@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "cmake",
+      "request": "launch",
+      "name": "CMake: Configure project",
+      "cmakeDebugType": "configure",
+      "clean": false,
+      "configureAll": false
+    },
+    {
+      "name": "Launch (lldb)",
+      "type": "cppdbg",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/Users/macintoshhd/code/c",
+      "environment": [],
+      "program": "/Users/macintoshhd/code/c/build/Debug/outDebug",
+      "externalConsole": false
+    }
+  ]
+}
